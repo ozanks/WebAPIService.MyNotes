@@ -1,0 +1,16 @@
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.Core.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.Entities.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.csprojAssemblyReference.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.DataAccess.deps.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.DataAccess.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.DataAccess.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.Entities.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.Core.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.csproj.CopyComplete
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\obj\Debug\netcoreapp2.1\MyNotes.DataAccess.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.DataAccess.runtimeconfig.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.DataAccess\bin\Debug\netcoreapp2.1\MyNotes.DataAccess.runtimeconfig.dev.json

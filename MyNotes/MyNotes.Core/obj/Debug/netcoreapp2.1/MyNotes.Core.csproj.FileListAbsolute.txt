@@ -1,0 +1,10 @@
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\bin\Debug\netcoreapp2.1\MyNotes.Core.deps.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\bin\Debug\netcoreapp2.1\MyNotes.Core.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\bin\Debug\netcoreapp2.1\MyNotes.Core.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\obj\Debug\netcoreapp2.1\MyNotes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\obj\Debug\netcoreapp2.1\MyNotes.Core.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\obj\Debug\netcoreapp2.1\MyNotes.Core.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\obj\Debug\netcoreapp2.1\MyNotes.Core.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\obj\Debug\netcoreapp2.1\MyNotes.Core.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\bin\Debug\netcoreapp2.1\MyNotes.Core.runtimeconfig.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Core\bin\Debug\netcoreapp2.1\MyNotes.Core.runtimeconfig.dev.json

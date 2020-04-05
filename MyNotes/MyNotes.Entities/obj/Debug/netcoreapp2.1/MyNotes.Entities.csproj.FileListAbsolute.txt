@@ -1,0 +1,14 @@
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Entities.deps.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Entities.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Entities.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Core.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Core.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.csprojAssemblyReference.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.AssemblyInfoInputs.cache
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.AssemblyInfo.cs
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.csproj.CopyComplete
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.dll
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\obj\Debug\netcoreapp2.1\MyNotes.Entities.pdb
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Entities.runtimeconfig.json
+C:\Users\Ozan\Desktop\WEBAPI\MyNotes\MyNotes.Entities\bin\Debug\netcoreapp2.1\MyNotes.Entities.runtimeconfig.dev.json
