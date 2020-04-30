@@ -1,2 +1,2 @@
 # WebAPIService.MyNotes
-Katmanlı Mimari ASP.Net Core Web Api Service
+N'tier ASP.Net Core Web Api Service
